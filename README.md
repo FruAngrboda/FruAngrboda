@@ -2,6 +2,7 @@
 <h3 align="center">💻Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fruangrboda&label=Profile%20views&color=0e75b6&style=flat" alt="fruangrboda" /> </p>
+(img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/ZVik7pBtu9dNS/200.gif")
 
 - 🌱 I’m currently learning **NodeJS**
 
